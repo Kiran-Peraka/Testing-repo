@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+
+
 hello added to feature branch
 
 added another change
+=======
+These are added from the main branch.
+>>>>>>> main
