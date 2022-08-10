@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 hello added to feature branch
@@ -6,4 +7,10 @@ hello added to feature branch
 added another change
 =======
 These are added from the main branch.
+>>>>>>> main
+=======
+this is from extra file
+making a pull request
+this is from extra new branch.
+Added another line from the extra new branch.
 >>>>>>> main
